@@ -1,2 +1,2 @@
 # PythonProj
-# Presnetation Version
+Sample solutions for the first python project.
