@@ -1,2 +1,2 @@
 # PythonProj
-Sample solutions for the first python project.
+Simple sample personal project.
